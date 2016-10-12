@@ -459,3 +459,6 @@ template {
 [hidden] {
   display: none;
 }
+.navbar-inverse .navbar-nav > li > a:hover{
+  background-color:#2C3539;
+}
